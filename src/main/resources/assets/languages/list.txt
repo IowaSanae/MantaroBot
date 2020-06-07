@@ -1,0 +1,14 @@
+ar_SA.json
+de_DE.json
+en_US.json
+es_ES.json
+fr_FR.json
+ko_KR.json
+lt_LT.json
+nl_NL.json
+pl_PL.json
+pt_BR.json
+ru_RU.json
+tr_TR.json
+tsu_TSU.json
+vi_VN.json
